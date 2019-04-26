@@ -1,0 +1,74 @@
+body {
+	color:#333333;
+	background-color:#FFFFFF;
+	background-image:url("image/bg.gif");
+	text-align:center;
+	margin-top:0px;
+	margin-bottom:0px;
+	font-family:"ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3";
+}
+
+.topics {
+	color:#333333;
+	font-size:10px;
+	font-weight:bold;
+}
+.text {
+	color:#333333;
+	font-size:10px;
+	line-height:150%;
+}
+.text_normal {
+	color:#000000;
+	font-size:12px;
+	line-height:140%;
+}
+.bold {
+	color:#333333;
+	font-size:12px;
+	font-weight:bold;
+}
+.tablemenu {
+	color:#333333;
+	font-size:12px;
+	font-weight:bold;
+}
+.tablecnt {
+	color:#333333;
+	font-size:12px;
+}
+
+/*
+/* 2013.11.13 H.Katono 追加
+*/
+.text8px {
+	color:#000000;
+	font-size:8px;
+	line-height:140%;
+}
+.text10px {
+	color:#000000;
+	font-size:10px;
+	line-height:160%;
+}
+.text12px {
+	color:#000000;
+	font-size:12px;
+	line-height:160%;
+}
+.h_1 {
+	border: 1px solid #B2B2B2;
+	background: url(image/bg_h1.gif) repeat-x bottom;
+	padding: 16px 19px 14px;
+	font-weight: bold;
+	font-size: 18PX;
+	line-height: 1.2;
+}
+.h_2r {
+  border-bottom: 1px solid #B2B2B2;
+//  background: url(../../img/2013/common/bg_h2r.gif) no-repeat 0px 4px;
+//  padding: 5px 15px;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1.2;
+}
