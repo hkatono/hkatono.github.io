@@ -23,5 +23,21 @@
       </description>
     </item>
     
+    <item>
+      <title>My First Post</title>
+      <link>https://hkatono.github.io/hugo/hugo-clarity/post/my-first-post/</link>
+      <pubDate>Sat, 08 Oct 2022 22:52:02 +0900</pubDate>
+      
+      <guid>https://hkatono.github.io/hugo/hugo-clarity/post/my-first-post/</guid>
+      <description>
+        
+          
+            Insert Lead paragraph here.
+          
+          
+        
+      </description>
+    </item>
+    
   </channel>
 </rss>
