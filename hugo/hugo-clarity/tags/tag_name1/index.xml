@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag_name1 on </title>
-    <link>file:///C:/winapps/hugo/testpage/public/tags/tag_name1/</link>
+    <link>https://hkatono.github.io/hugo/hugo-clarity/tags/tag_name1/</link>
     <description>Recent content in Tag_name1 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 08 Oct 2022 22:52:02 +0900</lastBuildDate><atom:link href="file:///C:/winapps/hugo/testpage/public/tags/tag_name1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Oct 2022 22:40:09 +0900</lastBuildDate><atom:link href="https://hkatono.github.io/hugo/hugo-clarity/tags/tag_name1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>file:///C:/winapps/hugo/testpage/public/post/my-first-post/</link>
-      <pubDate>Sat, 08 Oct 2022 22:52:02 +0900</pubDate>
+      <title>20221009_2240</title>
+      <link>https://hkatono.github.io/hugo/hugo-clarity/post/20221009_2240/</link>
+      <pubDate>Sun, 09 Oct 2022 22:40:09 +0900</pubDate>
       
-      <guid>file:///C:/winapps/hugo/testpage/public/post/my-first-post/</guid>
+      <guid>https://hkatono.github.io/hugo/hugo-clarity/post/20221009_2240/</guid>
       <description>
         
           
-            Insert Lead paragraph here.
+            Hello, world!
           
           
         

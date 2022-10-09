@@ -3,24 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hkatono.github.io/hugo/hugo-clarity/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-09T22:40:09+09:00</lastmod>
+  </url><url>
+    <loc>https://hkatono.github.io/hugo/hugo-clarity/post/20221009_2240/</loc>
+    <lastmod>2022-10-09T22:40:09+09:00</lastmod>
   </url><url>
     <loc>https://hkatono.github.io/hugo/hugo-clarity/categories/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hkatono.github.io/hugo/hugo-clarity/tags/hugo/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-09T22:40:09+09:00</lastmod>
   </url><url>
     <loc>https://hkatono.github.io/hugo/hugo-clarity/post/</loc>
+    <lastmod>2022-10-09T22:40:09+09:00</lastmod>
+  </url><url>
+    <loc>https://hkatono.github.io/hugo/hugo-clarity/tags/tag_name1/</loc>
+    <lastmod>2022-10-09T22:40:09+09:00</lastmod>
+  </url><url>
+    <loc>https://hkatono.github.io/hugo/hugo-clarity/tags/tag_name2/</loc>
+    <lastmod>2022-10-09T22:40:09+09:00</lastmod>
+  </url><url>
+    <loc>https://hkatono.github.io/hugo/hugo-clarity/tags/</loc>
+    <lastmod>2022-10-09T22:40:09+09:00</lastmod>
+  </url><url>
+    <loc>https://hkatono.github.io/hugo/hugo-clarity/categories/technology/</loc>
+    <lastmod>2022-10-09T22:40:09+09:00</lastmod>
+  </url><url>
+    <loc>https://hkatono.github.io/hugo/hugo-clarity/tags/hugo/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hkatono.github.io/hugo/hugo-clarity/series/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hkatono.github.io/hugo/hugo-clarity/categories/syntax/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hkatono.github.io/hugo/hugo-clarity/tags/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hkatono.github.io/hugo/hugo-clarity/series/themes-guide/</loc>

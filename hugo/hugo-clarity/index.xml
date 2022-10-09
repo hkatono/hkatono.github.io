@@ -6,7 +6,23 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hkatono.github.io/hugo/hugo-clarity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Oct 2022 22:40:09 +0900</lastBuildDate><atom:link href="https://hkatono.github.io/hugo/hugo-clarity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20221009_2240</title>
+      <link>https://hkatono.github.io/hugo/hugo-clarity/post/20221009_2240/</link>
+      <pubDate>Sun, 09 Oct 2022 22:40:09 +0900</pubDate>
+      
+      <guid>https://hkatono.github.io/hugo/hugo-clarity/post/20221009_2240/</guid>
+      <description>
+        
+          
+            Hello, world!
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Using Hugo page bundles</title>
       <link>https://hkatono.github.io/hugo/hugo-clarity/post/bundle/</link>
