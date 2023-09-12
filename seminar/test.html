@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>キーワード検出ページ</title>
+    <script>
+        function displayMessage() {
+            var keyword = document.getElementById("keyword").value;
+            var result = document.getElementById("result");
+
+            if (keyword === "1979") {
+                result.innerHTML = "Hello";
+            } else {
+                result.innerHTML = "";
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>キーワードを検出するページ</h1>
+    <p>特定のキーワードを入力してください:</p>
+    <input type="text" id="keyword">
+    <button onclick="displayMessage()">確認</button>
+    <p id="result"></p>
+</body>
+</html>
