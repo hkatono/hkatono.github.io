@@ -8,9 +8,10 @@
         function displayMessage() {
             var keyword = document.getElementById("keyword").value;
             var result = document.getElementById("result");
+            var url = '<iframe src="https://docs.google.com/viewer?url=URL_TO_YOUR_PDF_FILE" width="100%" height="500px" frameborder="0"></iframe>'
 
             if (keyword === "1979") {
-                result.innerHTML = "Hello";
+                result.innerHTML = url;
             } else {
                 result.innerHTML = "";
             }
