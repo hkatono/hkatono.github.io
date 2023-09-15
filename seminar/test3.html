@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>キーワードリダイレクトページ</title>
+    <script>
+        function redirect() {
+            var keyword = document.getElementById("keyword").value;
+
+            if (keyword === "1979") {
+                window.location.href = "https://hkatono.github.io/seminar/test.pdf"; // リダイレクト先のURLを設定
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>キーワードを検出してリダイレクト</h1>
+    <p>特定のキーワードを入力してください:</p>
+    <input type="text" id="keyword">
+    <button onclick="redirect()">確認</button>
+</body>
+</html>
+このコードでは、ユーザーが入力したキーワードが「特定のキーワード」と一致する場合に、window.location.href を使用して指定したURL（ここでは"https://example.com"）にリダイレクトします。特定のキーワードとリダイレクト先のURLを適切に設定してください。
+
+この方法を使用すると、特定のキーワードが入力された場合にユーザーを別のURLにリダイレクトできます。
+
+
+
+
+
