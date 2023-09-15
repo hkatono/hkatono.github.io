@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
+    <meta name="robots" content="noindex,nofollow,noarchive" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>キーワードリダイレクトページ</title>
+    <title>ゼミ文集配布ページ</title>
     <script>
         function redirect() {
             var keyword = document.getElementById("keyword").value;
@@ -15,15 +16,17 @@
     </script>
 </head>
 <body>
-    <h1>キーワードを検出してリダイレクト</h1>
-    <p>特定のキーワードを入力してください:</p>
+    <h1>ゼミ文集配布ページ</h1>
+    <p>私たちが学んだ年を西暦(半角4桁)で入れてください。</p>
     <input type="text" id="keyword">
-    <button onclick="redirect()">確認</button>
+    <button onclick="redirect()">表示する</button>
+    <p></p>
+    <p></p>
+    <h3>不明の場合は、メールの表題に「横井ゼミ」と入れて、zzrn6k(アットマーク)gmail.comへご連絡ください。</h3>
+    </h3>
 </body>
 </html>
-このコードでは、ユーザーが入力したキーワードが「特定のキーワード」と一致する場合に、window.location.href を使用して指定したURL（ここでは"https://example.com"）にリダイレクトします。特定のキーワードとリダイレクト先のURLを適切に設定してください。
 
-この方法を使用すると、特定のキーワードが入力された場合にユーザーを別のURLにリダイレクトできます。
 
 
 
