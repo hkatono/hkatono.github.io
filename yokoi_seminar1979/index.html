@@ -1,19 +1,16 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
+    <meta name="robots" content="noindex,nofollow,noarchive" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ゼミ文集配布ページ</title>
     <script>
-        function displayMessage() {
+        function redirect() {
             var keyword = document.getElementById("keyword").value;
-            var result = document.getElementById("result");
-            var url = '<iframe src="https://hkatono.github.io/seminar/test.pdf" width="100%" height="500px" frameborder="0"></iframe>'
 
             if (keyword === "1979") {
-                result.innerHTML = url;
-            } else {
-                result.innerHTML = "";
+                window.location.href = "https://hkatono.github.io/yokoi_seminar1979/book.pdf"; // リダイレクト先のURLを設定
             }
         }
     </script>
@@ -22,7 +19,15 @@
     <h1>ゼミ文集配布ページ</h1>
     <p>私たちが学んだ年を西暦(半角4桁)で入れてください。</p>
     <input type="text" id="keyword">
-    <button onclick="displayMessage()">確認</button>
-    <p id="result"></p>
+    <button onclick="redirect()">表示する</button>
+    <p></p>
+    <p>不明の場合は、メールの表題に「横井ゼミ」と入れて、zzrn6k&#64;gmail.com へご連絡ください。</p>
+    </h3>
 </body>
 </html>
+
+
+
+
+
+
